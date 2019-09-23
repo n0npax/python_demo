@@ -1,0 +1,10 @@
+#!/usr/bin/env zsh
+
+
+viu demo.png
+
+read aa
+
+echo "ok"
+sleep 4
+echo "ok"
