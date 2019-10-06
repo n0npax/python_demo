@@ -1,21 +1,21 @@
 my_map = {
     False: "NOK",
     True: "OK",
-    42: "The answer",
-    42.0: "The question",
+    42.0: "The answer",
+    42: "The question",
     }
 
 
 def lets_guess():
-    for guess in [False, 0, 1, 2, 3.0, 3]:
+    for guess in [False, 0, 1, 2, 42.0, 42]:
         print(
-            f"❓ guessing m[{guess}]. bool({guess}) == {bool(guess)}, type({guess})=={type(guess)}, hash({guess})=={hash(guess)}"
+            f"\n❓ guessing m[{guess}]. bool({guess}) == {bool(guess)}, type({guess})=={type(guess)}"
         )
         input()
         try:
-            print(f"--> {my_map[guess]}")
+            print(f"✅ {my_map[guess]}")
         except Exception as e:
-            print(f"Exception: {type(e)}")
+            print(f"❌ Exception: {type(e)}")
         finally:
             pass
 

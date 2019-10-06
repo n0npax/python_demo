@@ -1,7 +1,15 @@
 1. Intro
-1.1 End is near
-1.2 Why (theory vs practice)
+1.1 end is near
+1.2 why (theory vs practice)
 2. Playground
+2.1 basics - integers
 2.1 maps
-2.2 
- 
+2.2 is equal is alternating?
+2.2.1 knot not
+2.2.2 quotation precedence
+2.3 strings
+2.4 object comparision
+2.5 clojure
+2.6 variables names
+2.7 logic
+3. pkill python, goodby
