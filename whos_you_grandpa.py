@@ -1,12 +1,14 @@
+#!/usr/bin/env python3.8
+
 from dataclasses import dataclass
 
 @dataclass
 class A:
-    x: int = 1
+    x: str = 'A'
 
 @dataclass
 class B:
-    x: int = 2
+    x: str = 'B'
 
 class C(A,B):
     pass

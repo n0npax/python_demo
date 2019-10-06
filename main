@@ -1,10 +1,9 @@
 #!/usr/bin/env zsh
 
-
-viu demo.png
-
+viu img/python-logo.png
+read aa
+viu img/anz-logo.jpg
 read aa
 
-echo "ok"
-sleep 4
-echo "ok"
+clear
+ipython

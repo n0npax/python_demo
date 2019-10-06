@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+termdown 840 -c 120 # -s
