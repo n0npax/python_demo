@@ -2,8 +2,6 @@
 
 viu img/python-logo.png
 read aa
-viu img/anz-logo.jpg
-read aa
 
 clear
 ipython
