@@ -1,4 +1,5 @@
-class A: pass
+class A:
+    pass
 
 
 print("A() is A()")
