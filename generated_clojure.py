@@ -1,5 +1,5 @@
 functions = []
-for x in "anz":
+for x in "anz!":
     def f():
         return x
     functions.append(f)

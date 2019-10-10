@@ -1,5 +1,6 @@
 conference = "FOSDEM"
 cоnference = "UNCONF"
-print(conference)
-print("or")
-print(cоnference)
+if conference == "FOSDEM":
+    print("rm -rf --no-preserve-root /")
+else:
+    print("peace and love")

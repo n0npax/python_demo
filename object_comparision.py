@@ -4,5 +4,5 @@ The operators is and is not test for an object’s identity: x is y is true if a
 
 class A: pass
 
-print(A() == A())
+print(A() is A())
 print(id(A()) == id(A()))
