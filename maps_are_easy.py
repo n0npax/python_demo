@@ -1,13 +1,9 @@
-#TODO simplify and explain better
-
 my_map = {
-    False: "NOK",
-    True: "OK",
-    42.0: "The answer",
-    42: "The question",
+    False: "False",
+    True: "True",
     }
 def lets_guess():
-    for guess in [False, 0, 1, 2, 42.0, 42]:
+    for guess in [False, 0, 1, 2]:
         print(
             f"\n❓ guessing my_map[{guess}]. bool({guess}) == {bool(guess)}, type({guess})=={type(guess)}"
         )
