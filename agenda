@@ -1,9 +1,7 @@
-integers
-maps
-strings
-clojure
-true power of true
-variables names
-object comparision
-not knot
-quotation precedence
+1 integers
+2 true power of true
+3 maps
+5 closure
+4 variables names
+6 object comparison
+. strings

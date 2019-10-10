@@ -1,3 +1,5 @@
+#TODO simplify and explain better
+
 my_map = {
     False: "NOK",
     True: "OK",
