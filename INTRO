@@ -1,4 +1,5 @@
 python2
 good world vs practice
 Explain that == works fine
+  In Python 3.8 there is even a warning when trying to use `is` instead of `==`: https://docs.python.org/3.8/whatsnew/3.8.html#changes-in-python-behavior
 Ask who uses python
