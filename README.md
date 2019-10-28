@@ -1,12 +1,11 @@
-# Unconf python presentation
+# Python presentation
 
 ## Why?
-ANZ is throwing a party (or conference if you prefer). I decided I can share some python gotchas.
+ANZ is throwing a party (or Unconf conference if you prefer). I decided I can share some python gotchas.
 
 ## How to run
 ```zsh
-# please install "viu" via cargo
-./main
+ipython # and load whatever you need
 ```
 
 ## Demo
