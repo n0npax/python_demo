@@ -1,7 +1,0 @@
-#!/usr/bin/env zsh
-
-viu img/python-logo.png
-read aa
-
-clear
-ipython

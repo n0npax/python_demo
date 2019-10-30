@@ -1,14 +1,21 @@
-# Python presentation
+# Python presentations
 
-## Why?
+## Weir behaviours
+
+### Why?
 ANZ is throwing a party (or Unconf conference if you prefer). I decided I can share some python gotchas.
 
-## How to run
+## crawl faster
+
+### Because we can
+Use `go` if you really care about speed, if not let's crawl faster together
+
+# How to run
 ```zsh
 ipython # and load whatever you need
 ```
 
-## Demo
+## Example Demo
 ![Alt text](img/demo.png?raw=true "Title")
 
 ## License

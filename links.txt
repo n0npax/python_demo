@@ -1,5 +1,6 @@
 You want to dig more?
 
+high performant python, 2nd edition
 https://effectivepython.com/
 https://github.com/satwikkansal/wtfpython
 http://shop.oreilly.com/product/0636920032519.do
