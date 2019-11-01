@@ -5,6 +5,7 @@ def test():
     a = "llama"
     del b
     b = "mouse"
+    return a, b
 
 def fun_a():
     return "a"*(10**8)

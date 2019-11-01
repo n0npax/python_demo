@@ -1,5 +1,5 @@
 cython
-pyspy
+py-spy
 memory_profiler
 line_profiler
 psutil

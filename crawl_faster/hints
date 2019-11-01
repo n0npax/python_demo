@@ -1,0 +1,2 @@
+python3 -m cProfile cpu_eater.py
+python3 -m memory_profiler mem_eater.py

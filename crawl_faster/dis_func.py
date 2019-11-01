@@ -3,13 +3,13 @@ import math
 
 
 def mylog1():
-    return sum ([log(i) for i in range(1,1000)])
+    return sum([log(i) for i in range(1,1000)])
 
 def mylog2():
-    return sum ([math.log(i) for i in range(1,1000)])
+    return sum([math.log(i) for i in range(1,1000)])
 
 def mylog3(log=math.log):
-    return sum ([log(i) for i in range(1,1000)])
+    return sum([log(i) for i in range(1,1000)])
 
 
 #%timeit mylogX
