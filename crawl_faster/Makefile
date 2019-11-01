@@ -1,8 +1,9 @@
-cython:
+generate:
 	python3 setup.py build_ext --inplace
 	cp build/temp.linux-x86_64-3.7/dis_func_cyth.o .
 
 clean:
+	rm *.so
 	rm -fr build
 	rm *.c
 	rm *.html

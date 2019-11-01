@@ -4,6 +4,7 @@ import dis_func_cyth
 
 mylog1c = dis_func_cyth.mylog1c
 mylog2c = dis_func_cyth.mylog2c
+mylog3c = dis_func_cyth.mylog3c
 
 
 def mylog1p():
@@ -22,7 +23,7 @@ def mylog3p(log=math.log):
 
 import timeit
 
-for f in [mylog1p, mylog2p, mylog3p, mylog1c, mylog2c]:
+for f in [mylog1p, mylog2p, mylog3p, mylog1c, mylog2c, mylog3c]:
     t = timeit.timeit(
         f"{f.__name__}()",
         setup=f"from __main__ import log, math, {f.__name__}",
