@@ -6,6 +6,6 @@ s = 0
 c = 0
 i = 0
 while True:
-    i+=1
-    s+=math.sin(i)
-    c+=math.cos(i)
+    i += 1
+    s += math.sin(i)
+    c += math.cos(i)
