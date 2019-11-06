@@ -5,3 +5,6 @@ https://effectivepython.com/
 https://github.com/satwikkansal/wtfpython
 http://shop.oreilly.com/product/0636920032519.do
 https://www.packtpub.com/au/application-development/python-unlocked
+
+https://github.com/zhuyifei1999/guppy3
+https://github.com/mgedmin/objgraph
